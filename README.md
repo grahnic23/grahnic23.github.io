@@ -7,9 +7,6 @@
 - **Alarm Clock (Arduino, Embedded C++)**
   - [Repo Link](https://github.com/ngraham7sw/alarm-clock)
 
-## 📺 Videos / Media
-- Coming soon (add demo links, race footage, project walkthroughs)
-
 ## 🤳 Connect with Me
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px">](https://linkedin.com/in/nicholas-g-graham)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="22px">](https://github.com/ngraham7sw)
